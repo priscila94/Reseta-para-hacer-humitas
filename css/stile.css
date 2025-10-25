@@ -1,0 +1,18 @@
+body { background: #FFEC5C;}
+h1 {color: #473F00;}
+.subnaranja {color: #9F2D01;}
+.subnaranja1 {color: #FF8904;}
+h1 { font-size:   large;}
+h1 { text-align:  center;}
+h1 { text-decoration-color: #473F00;}
+h1 {  text-decoration: underline;}
+.subnaranja { text-decoration: underline;}
+.subnaranja1 { text-decoration: underline;}
+img {
+  width: 800px;
+  height: 400px;
+  height: auto;
+  display: block;         /* importante */
+  margin-left: auto;      /* centra horizontalmente */
+  margin-right: auto;     /* centra horizontalmente */
+}
